@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Disco Duro</title>
+<a name="arriba"></a>
+<style>
+p.a {
+  font: 15px arial, sans-serif;
+}
+
+p.b {
+  font: italic bold px18/30px Georgia, serif;
+}
+#general{
+      margin:auto;
+      width:960px;
+      height:750px;
+      background-color:	#B0E0E6;
+      margin-top:10px;
+}
+#head{
+      width:960px;
+      height:220px;
+      background-image:url(imagenes/w57.png);
+      margin-top:0px;
+}
+#menu{
+      margin:auto:
+      width:960px;
+      height:30px;
+      background-color:	#000000;
+      font-family:Verdana, Genova, sans-serif;
+}
+ul,ol{
+      list-style:none;
+}
+.nav li a{
+      background-color:	#000000;
+      color:#FFFFFF;
+      text-decoration:none;
+      padding:5.5px 60px;
+      display:block;
+}
+.nav li a:hover{
+      background-color:#FFFFFF;
+      color:#000000;
+}
+.nav>li{
+      float:left;
+}
+.nav li ul{
+      display:none;
+      position:absolute;
+      min-width:140px;
+}
+.nav li:hover>ul{
+      display:block;
+}
+.nav li ul li{
+      position:relative;
+}
+.nav li ul li ul{
+      right:-130px,
+      top:0px;
+}
+</style>
+</head>
+<div id="general">
+      <div id="head">
+      </div>
+      <div id="menu">
+           <ul class="nav">
+                 <li><a href="MANTENIMIENTO DE EQUIPO DE COMPUTO34.html">Inicio</a>
+                 <li><a href="">Corte 1</a>
+                   <ul>
+                     <li><a href="ejemplo43.html">Historia De la Generaciones de las Computadoras</a></li>
+                     <li><a href="90.html">Linea del Tiempo de Dispositivos de Entrada y Salida</a></li>
+                     <li><a href="soft74.html">Software y Hadware de una Computadora</a></li>
+                     <li><a href="">Estructura de la Computadora</a>
+                       <ul>
+                          <li><a href="Ent36.html">Dispositivos de Entrada</a></li>
+                          <li><a href="sali40.html">Dispositivos de Salida de Datos</a></li> 
+                          <li><a href="pros39.html">Dispositivos de Procesamiento de Datos</a></li>
+                          <li><a href="alm38.html">Dispositivos de Almacenamiento de Datos</a></li>
+                          <li><a href="dispositivos21.html">Dispositivos de Mixtos</a></li>
+
+                     </ul>
+                    </li>
+                   </ul>
+                  </li>
+                  <li><a href="">Corte 2</a>
+                   <ul>
+
+                          <li><a href="tips12.html">Tipos de Sistemas</a></li>
+                          <li><a href="sis31.html">Sistema Operativo</a></li> 
+                          <li><a href="set21.html">Setup</a></li>
+                          <li><a href="di24.html">Disco Duro</a></li>
+                          <li><a href="anti43.html">Antivirus</a></li>
+                        </ul>
+
+                       </li>
+                       <li><a href="">Corte 3</a>
+                        <ul>
+                          <li><a href="">Rutina Post</a></li>
+                          <li><a href="">Tarjeta Post</a></li> 
+                          
+                          <li><a href="">Software de Diagnostico</a>
+                           <ul>
+                 <li><a href="cc3.html">Ccleaner</a></li>
+                 <li><a href="tun10.html">Tune Up</a></li>
+                 <li><a href="ar3.html">Argente Utilities</a></li>
+                 
+                      </ul>
+                 </li>
+             </ul>
+         </li>
+         <li><a href="practicas1.html">Practicas</a></li>
+        </ul>
+
+      </div>
+    <div id="cuerpo">
+      <div id="efecto">
+      </div>
+      <div id="public">
+      </div>
+      <div id="logo">
+      </div>
+</div>
+</style>
+</head>
+<body bgcolor="	#B0E0E6">
+<font face="Copperplate Gothic Bold" color="white" size="5"><a href="#abajo">Ir a la parte de abajo</a>
+<br>
+</br>
+<div align="center"><font face="Copperplate Gothic Bold" size="30" color="white">Como se Reinicia un Disco Duro</font></div>
+<br><font face="Copperplate Gothic Bold" color="BLACK" size="5">Existen muchas razones por las cuales querer formatear un disco duro. Puede que estés buscando deshacerte de un virus. Quizás necesites comenzar de cero. O simplemente vas a vender tu ordenador y no quieres que nadie pueda acceder a tu información personal.</br></font>
+<br><font face="Copperplate Gothic Bold" color="BLACK" size="5">Los discos duros, en efecto, son aquellos dispositivos donde se almacenan todos los datos que tienes guardados en tu PC mediante un procedimiento magnético, es decir, programas, archivos, configuración y todos los cambios que se produzcan.</br></p></font>
+<div align="center"><font face="Copperplate Gothic Bold" size="30" color="white">¿Se puede formatear un disco duro de forma rápida?</font></div>
+<br><font face="Copperplate Gothic Bold" color="BLACK" size="5">Es posible formatear un disco duro de forma rápida, pero este método no es el que deberías seguir si tu intención es eliminar de forma permanente la información de la unidad HDD. Un formateo rápido solo eliminará el camino para llegar a estos datos.</font></br>
+
+<div align="center"><font face="Copperplate Gothic Bold" size="30" color="white">Formatea un disco duro con el software DBAN</font></div>
+
+<br><font face="Copperplate Gothic Bold" color="BLACK" size="5">>Una de las herramientas de formateo que podemos utilizar para formatear un disco duro es la conocida como DBAN o Darik’s Boot and Nuke, un programa completamente gratis que te permitirá borrar todos tus datos para siempre.Así pues, usando este software, podrás eliminar tu disco duro, lo que te permitirá instalar un nuevo sistema operativo en él. Ten en cuento que esto también significa que toda la información previa será borrada y será irrecuperable y que el proceso no podrá deshacerse.</br></font>
+<div align="center"><img src="imagenes\dis.jpg" alt "paisaje 2" width="600" height="350"></td></div>
+
+<br><font face="Copperplate Gothic Bold" color="BLACK" size="5">En principio, DBAN está pensado solo para crear un CD/DVD-R de arranque, pero si no dispones de uno de libre o de una grabadora, hay un método alternativo que te ayudará a hacerlo con la ayuda de otro programa externo.</br><br>
+
+Se trata de Universal USB Installer, con el que podrás convertir la imagen ISO de DBAN desde una memoria USB de arranque. Simplemente inserta este USB, abre el programa y sigue las instrucciones que te aparecerán en pantalla.</br><br>
+
+En concreto, te pedirán que selecciones de la lista el Linux Distribution que quieras instalar en tu USB, en este caso, la última versión de DBAN. También deberás elegir la localización en tu ordenador y el USB que quiera utilizar. Finalmente dale a ‘Create’.</br></font>
+<div align="center"><img src="imagenes\dis1.jpg" alt "paisaje 2" width="600" height="350"></td></div>
+<br><font face="Copperplate Gothic Bold" color="BLACK" size="5">Para poder arrancar desde este USB y no desde el dispositivo desde el cual lo harías normalmente -en la mayor parte de los casos, el disco duro-, deberás realizar algunos cambios en la configuración del BIOS.</br><br>
+
+Para acceder al BIOS, deberás encender el ordenador y espera a que aparezca la primera imagen en la pantalla. Entonces, dale a la tecla ‘Eliminar’, ‘F1’, ‘F2’, ‘F5’ o ‘F12’ -según el ordenador- repetidamente. Esta tecla te saldrá en la autoprueba de arranque o POST.</br><br>
+
+Cuando ya se te haya abierto el BIOS, utiliza las teclas de dirección para navegar por la interfaz. Localiza el menú de ‘First Boot Device’ para configurar el disco de arranque principal y selecciona la opción de USB.
+
+</br></font>
+<div align="center"><img src="imagenes\dis2.jpg" alt "paisaje 2" width="600" height="350"></td></div>
+
+<br><font face="Copperplate Gothic Bold" color="BLACK" size="5">Una vez hayas guardado los cambios, ya podrás salir del BIOS, insertar el USB de arranque en cuestión y resetear tu ordenador. Al encenderse, debería abrirse automáticamente el programa DBAN.</br><br>
+
+Luego, bastará con que sigas de nuevo las instrucciones que te aparecerán en pantalla para poder llevar a cabo la eliminación del disco duro. Para evitar que también borre los datos del USB, no olvides d
+esconectarlo antes de que empiece el proceso de formateo.</br><br></font>
+
+<div align="center"><table border="6">
+
+<tr>
+  <td><br><font face="Copperplate Gothic Bold" color="white" size="5"><a href="#arriba">Ir a la parte de arriba</a></font>
+<a name="abajo"></a></br></td><td><br><a href="MANTENIMIENTO DE EQUIPO DE COMPUTO34.html"><font face="Copperplate Gothic Bold" color="white" size="5">Regresar a pagina principal </font></a><br></td>
+</tr></div>
+</table>
+</body>
+
+</html>
+
+

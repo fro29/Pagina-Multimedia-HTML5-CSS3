@@ -1,0 +1,239 @@
+<html>
+<head>
+<title>Tipos de Sistemas</title>
+<a name="arriba"></a>
+<style type="text/css">
+*{
+      margin:0px;
+      padding:0px;
+}
+#general{
+      margin:auto;
+      width:960px;
+      height:750px;
+      background-color:#FFFFFF;
+      margin-top:10px;
+}
+#head{
+      width:960px;
+      height:220px;
+      background-image:url(imagenes/w116.png);
+      margin-top:0px;
+}
+#menu{
+      margin:auto:
+      width:960px;
+      height:30px;
+      background-color:	#0000CD;
+      font-family:Verdana, Genova, sans-serif;
+}
+ul,ol{
+      list-style:none;
+}
+.nav li a{
+      background-color:#0000CD;
+      color:#FFFFFF;
+      text-decoration:none;
+      padding:5.5px 60px;
+      display:block;
+}
+.nav li a:hover{
+      background-color:	#F5FFFA;
+      color:#000000;
+}
+.nav>li{
+      float:left;
+}
+.nav li ul{
+      display:none;
+      position:absolute;
+      min-width:140px;
+}
+.nav li:hover>ul{
+      display:block;
+}
+.nav li ul li{
+      position:relative;
+}
+.nav li ul li ul{
+      right:-130px,
+      top:0px;
+}
+</style>
+</head>
+<div id="general">
+      <div id="head">
+      </div>
+      <div id="menu">
+           <ul class="nav">
+                 <li><a href="MANTENIMIENTO DE EQUIPO DE COMPUTO34.html">Inicio</a>
+                 <li><a href="">Corte 1</a>
+                   <ul>
+                     <li><a href="ejemplo43.html">Historia De la Generaciones de las Computadoras</a></li>
+                     <li><a href="91.html">Linea del Tiempo de Dispositivos de Entrada y Salida</a></li>
+                     <li><a href="soft74.html">Software y Hadware de una Computadora</a></li>
+                     <li><a href="">Estructura de la Computadora</a>
+                       <ul>
+                          <li><a href="Ent36.html">Dispositivos de Entrada</a></li>
+                          <li><a href="sali40.html">Dispositivos de Salida de Datos</a></li> 
+                          <li><a href="pros39.html">Dispositivos de Procesamiento de Datos</a></li>
+                          <li><a href="alm38.html">Dispositivos de Almacenamiento de Datos</a></li>
+                          <li><a href="dispositivos21.html">Dispositivos de Mixtos</a></li>
+
+                     </ul>
+                    </li>
+                   </ul>
+                  </li>
+                  <li><a href="">Corte 2</a>
+                   <ul>
+
+                          <li><a href="tips12.html">Tipos de Sistemas</a></li>
+                          <li><a href="sis31.html">Sistema Operativo</a></li> 
+                          <li><a href="set21.html">Setup</a></li>
+                          <li><a href="di24.html">Disco Duro</a></li>
+                          <li><a href="anti43.html">Antivirus</a></li>
+                        </ul>
+
+                       </li>
+                       <li><a href="">Corte 3</a>
+                        <ul>
+                          <li><a href="tar15.html">Rutina Post</a></li>
+                          <li><a href="tarjeta post19.html">Tarjeta Post</a></li> 
+                          
+                          <li><a href="diag12.html">Software de Diagnostico</a>
+                           <ul>
+                 <li><a href="cc7.html">Ccleaner</a></li>
+                 <li><a href="tun10.html">Tine Up</a></li>
+                 <li><a href="ar3.html">Argente Utilities</a></li>
+                 
+                      </ul>
+                 </li>
+             </ul>
+         </li>
+         <li><a href="practicas1.html">Practicas</a></li>
+        </ul>
+
+      </div>
+    <div id="cuerpo">
+      <div id="efecto">
+      </div>
+      <div id="public">
+      </div>
+      <div id="logo">
+      </div>
+</div>
+
+<br></br>
+
+
+<style>
+p.a {
+  font: 15px arial, sans-serif;
+}
+
+p.b {
+  font: italic bold 20px/30px Georgia, serif;
+}
+
+</style>
+</head>
+<body bgcolor="	#FFFFFF">
+<font face="Copperplate Gothic Bold" color="white" size="5"><a href="#abajo">Ir a la parte de abajo</a>
+<br>
+</br>
+<div align="center"><font face="Trebuchet MS" size="15" color="black">Sistema Básico</font></div>
+<p class="b"><font color="black">Es un sistema ocupado para estudiantes, como maquina de una ama de casa,etc. Como no hay tanta exigencia (pues los trabajos consisten en hacer cortas tareas escolares,
+manejar ciertos programas basicos) podemos elegir componenetes medianamente poderosos;
+por ejemplo sistema operativo Windows 7, microprocesador Pentium, disco duro de 60 GB, memoria 
+RAM de 128 MBTS.</br></p></font>
+
+
+<br></br>
+<div align="center"><font face="Trebuchet MS" size="15" color="black">Sistema Intermedio  </font></div>																			
+<br><p class="b"><font color="black">Generalmente este tipo de sistema es usado para usuarios con conocimientos y necesidades de nivel medio superior. Este equipo ya debe
+contar con un microprocesador de capacidad media ( alrededor de 2.4 GHz) disco duro
+de 100 GB, memoria RAM de 1200 MBTS, quemador de CD, microprocesador de
+pantalla grande, tarjeta de video, sistema operativo Windows 8  Professional, etc. Con una
+maquina de estas cualquier tipo de ususario puede manejar cualquier tipo de programa y hacer
+practicamente lo que necesita.</p></br></font>
+<br></br>
+<div align="center"><font face="Trebuchet MS" size="15" color="black">Sistema Avanzado </font></div>
+
+<br><p class="b"><font color="black">Este sistema suele hacerce para programas o aplicaciones de una gama alta, muchos la utilizan para jecutar juegos  anvanzados, realizar investigacion cientificas, realizar labores de servidores en grandes empresas,
+por lo general este tipo de aplicaciones requieren mayor pòder de computo posible, no
+importa cuanto halla que pagar por esto, una computadora de alto nivel cuesta que cualquiera de 
+los otros dos tipos de maquinas que nombramos, pùede tener un precio de 5 a a10 veces
+superior a la de un maquina anterior pero su poder y versatilidad los justifica.</p></br></font>
+
+<br></br>
+<br><font face="Trebuchet MS" size="7" color="black">Microprocesadores Actuales en el Mercado </font><br>
+<br><font face="Trebuchet MS" size="6" color="black">Intel</font></br>
+
+<br><p class="b"><font color="black"><strong>Intel:</strong> la marca que más vende y la más conocida gracias a sus procesadores Pentium. Tienen dos posibles sockets: 478 y 775. El primero de ellos está pasado de moda y desapareciendo, así que nos centraremos en el segundo. Actualmente distribuye, dentro del nuevo socket 775, los siguientes modelos:</br></font>
+
+<br><p class="b"><font color="black"><strong>°Intel Pentium 4:</strong> la gama media. Actualmente todos poseen extensiones EMT 64, por lo que son micros de 64 bits. Es importante que te des cuenta que ya no indican el nº de GHz, sino un modelo. Por tanto, es muy importante que averigües la velocidad real del micro. Existen dos cores:</br></font>
+
+<br><p class="b"><font color="black"><strong>*Prescott: </strong> de 531 / 3'0 GHz hasta 541 / 3'2 GHz, con 1024 kB de caché</br></font>
+
+<br><p class="b"><font color="black"><strong>*Cedar Mill: </strong> de 631 / 3'0 GHz hasta 661 / 3'6 GHz, con 2048 kB de caché. Es evidente que los segundos son mejores, los que empiezan por "600".</br></font>
+
+<br></br>
+<br><p class="b"><font color="black"><strong>°Intel Pentium D:</strong>  la gama alta. Similares a los anteriores pero de doble core. Es decir, que es como si estuvieras comprando dos micros y los colocaras en el mismo espacio, duplicando (idealmente) el rendimiento. Sólo se aprovechan al 100% si el software está optimizado, pero son muy recomendables dada la facilidad con que permiten trabajar con varios programas a la vez. Fíjate bien en los precios porque hay Pentium D por el mismo dinero que un Pentium 4 de los mismos GHz (de 3'2 a 3'6 GHz)  por lo que estarías comprando el doble por el mismo dinero. También son micros de 64 bits. Existen dos cores:</br></font>
+
+<br><p class="b"><font color="black"><strong>*Smithfield: </strong> 805 y 2'666 GHz. Sólo 1024 Kb de caché por core. Muy malos, dado que tienen sólo 533 MHz de bus.</br></font>
+<br><p class="b"><font color="black"><strong>*Presler: </strong> 8de 915 / 2'8 GHz hasta 960 / 3'6 GHz. 2048 kB de caché por core y 800 MHz de bus. Uno de estos es buena compra, así que asegúrate que empiece por "900".</br></font>
+
+<br></br>
+<br><p class="b"><font color="black"><strong>°Intel Core 2 Duo:</strong>  la gama más alta. También de doble core y 64 bits, pero emplean una arquitectura nueva (arquitectura core), que es la base para los futuros micros de 4 y 8 cores en adelante. Aunque van a una velocidad de GHz menor, su rendimiento es muchísimo más alto que los anteriores, por lo que son mucho más rápidos que los Pentium D. Existen dos cores:  </br></font>
+
+
+<br><p class="b"><font color="black"><strong>*Allendale: </strong> E6300 / 1'866 GHz y E6400 / 2'133 GHZ, con 1024 kB de caché por core y 1066 MHz de bus. Son buena compra, pero no son los mejores Core 2 Duo.</br></font>
+<br><p class="b"><font color="black"><strong>*Conroe: </strong>  E6600 / 2'4 GHz y E6700 / 2'6 GHz, con 2048 kB de caché por core y 1066 MHz. Los más recomendables si el prespuesto te lo pemite.</br></font>
+<br><p class="b"><font color="black"><strong>*Conroe XE: </strong>  X6800EE / 2'93 GHz, con 2048 kB de caché por core y 1066 MHz. La versión más extrema de Intel. Actualmente el micro más rápido de Intel para ordenadores de sobremesa (no servidores ni portátiles). Es caro (más de 1.000 euros) y su rendimiento no es mucho mayor que el E6700 que cuesta la mitad. Que cada uno valore si le merece la pena.</br></font>
+
+
+<br><p class="b"><font color="black"> La elección del microprocesador depende del uso que se le vaya a dar. Si sólo vamos a usarlo para aplicaciones de ofimática (procesador de textos, hojas de cálculo y programas relativamente sencillos y con poco uso de memoria) los Celeron nos valdrán, ya que el uso de memoria es bastante reducido. Pero ojo, que son de 32 bits, algo que, si bien hoy día no está desaprovechado por la falta de software optimizado a 64 bits, está muy anticuado.</br></font>
+
+<br><p class="b"><font color="black"> Sin embargo, un ordenador como regalo para una familia, sobretodo para los hijos que aunque digan que no, van a jugar, los Celeron se quedan bajos. Son necesarios micros más potentes, es decir, los Pentium 4. Especialmente sabiendo que el nuevo sistema operativo de Microsoft, el Windows Vista, está a la vuelta de la esquina, y que requerirá un ordenador potente para moverlo.</br></font>
+
+<br><font face="Trebuchet MS" size="6" color="black">AMD</font></br>
+<br><p class="b"><font color="black"><strong>AMD:</strong> es el rival más directo que tiene Intel. Los micros son exactamente igual de compatibles, y usando el ordenador no notaremos en ningún momento diferencias entre tener un Intel o un AMD.</br></font>
+
+<br><p class="b"><font color="black"> Al igual que ocurre con Intel, AMD también fabrica diferentes gamas de microprocesadores: los Sempron, al nivel que los Celeron son los de peor calidad, pero que sin embargo si el uso del ordenador es básico (como ya dijimos antes, ofimática, navegar por internet y poco más) un Sempron nos ayudará a ésta tarea a la perfección. Sino, podemos ascender de calidad y comprar los otros modelos superiores, los Athlon64 (con 64 bits, como dice el nombre) o los Athlon 64 X2, que son los de doble core de AMD.</br></font>
+
+<br><p class="b"><font color="black"> Algo importante en AMD es su denominación de velocidad teórica, marcada con un XXXX+ que no representa su velocidad en GHz. Por ejemplo, un Athlon64 3200+ con 512 kB de caché, va realmente a 2 GHz. Eso no implica que sean lentos, todo lo contrario, se supone que ese 2 GHz equivale a un Pentium4 a 3,2 GHz (de ahí el 3200+). Normalmente suele ser un poco pretencioso, y equivale realmente a un Pentium 4 2'8 ó 3 GHz. Por ello el valor acabado en el sigmo + sirve para comparar los Athlon entre sí, pero no demasiado válido para compararlos con los Pentium 4.</br></font>
+
+
+
+<br></br>
+<div align="center"><table border="6">
+<tr>
+  <td><br><font face="Copperplate Gothic Bold" color="black" size="5"><a href="#arriba">Ir a la parte de arriba</a></font>
+<a name="abajo"></a></br></td><td><br><a href="MANTENIMIENTO DE EQUIPO DE COMPUTO34.html"><font face="Copperplate Gothic Bold" color="black" size="5">Regresar a pagina principal </font></a><br></td>
+</tr></div>
+</table>
+
+
+
+
+
+
+
+<a href="MANTENIMIENTO DE EQUIPO DE COMPUTO34.html"><font face="Copperplate Gothic Bold" size="10" color="white">Regresar</font></a>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

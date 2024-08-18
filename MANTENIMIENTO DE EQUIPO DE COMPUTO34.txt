@@ -1,0 +1,144 @@
+<html>
+<head>
+<title>Manteniminto de Equipo de Computo</title>
+<style type="text/css">
+*{
+      margin:0px;
+      padding:0px;
+}
+#general{
+      margin:auto;
+      width:960px;
+      height:750px;
+      background-color:#00008B;
+      margin-top:10px;
+}
+#head{
+      width:960px;
+      height:220px;
+      background-image:url(imagenes/w21.png);
+      margin-top:0px;
+}
+#menu{
+      margin:auto:
+      width:960px;
+      height:30px;
+      background-color:#4169E1;
+      font-family:Verdana, Genova, sans-serif;
+}
+ul,ol{
+      list-style:none;
+}
+.nav li a{
+      background-color:#4169E1;
+      color:#FFFFFF;
+      text-decoration:none;
+      padding:5.5px 60px;
+      display:block;
+}
+.nav li a:hover{
+      background-color:#AFEEEE;
+      color:#000000;
+}
+.nav>li{
+      float:left;
+}
+.nav li ul{
+      display:none;
+      position:absolute;
+      min-width:140px;
+}
+.nav li:hover>ul{
+      display:block;
+}
+.nav li ul li{
+      position:relative;
+}
+.nav li ul li ul{
+      right:-130px,
+      top:0px;
+}
+#efecto{
+      width:960px;
+      height:90px; 
+      background-image:url(imagenes/w22.png);
+      margin-top:0px;
+}
+#public{
+      width:180px;
+      height:350px; 
+      background-image:url(imagenes/w121.png);
+      margin-top:0px;
+      margin-left:775;
+}
+#logo{
+      width:720px;
+      height:350px; 
+      background-image:url(imagenes/w24.png);
+      margin-top:-350px;
+      margin-left:30;
+}
+</style>
+</head>
+<body background-color:#00008B;>
+<div id="general">
+      <div id="head">
+      </div>
+      <div id="menu">
+           <ul class="nav">
+                 <li><a href="">Inicio</a>
+                 <li><a href="">Corte 1</a>
+                   <ul>
+                     <li><a href="ejemplo43.html">Historia De la Generaciones de las Computadoras</a></li>
+                     <li><a href="91.html">Linea del Tiempo de Dispositivos de Entrada y Salida</a></li>
+                     <li><a href="soft74.html">Software y Hadware de una Computadora</a></li>
+                     <li><a href="">Estructura de la Computadora</a>
+                       <ul>
+                          <li><a href="Ent36.html">Dispositivos de Entrada</a></li>
+                          <li><a href="sali40.html">Dispositivos de Salida de Datos</a></li> 
+                          <li><a href="pros39.html">Dispositivos de Procesamiento de Datos</a></li>
+                          <li><a href="alm38.html">Dispositivos de Almacenamiento de Datos</a></li>
+                          <li><a href="dispositivos21.html">Dispositivos de Mixtos</a></li>
+
+                     </ul>
+                    </li>
+                   </ul>
+                  </li>
+                  <li><a href="">Corte 2</a>
+                   <ul>
+                          <li><a href="tips12.html">Tipos de Sistemas</a></li>
+                          <li><a href="sis31.html">Sistema Operativo</a></li> 
+                          <li><a href="set21.html">Setup</a></li>
+                          <li><a href="di23.html">Disco Duro</a></li>
+                          <li><a href="anti43.html">Antivirus</a></li>
+                        </ul>
+
+                       </li>
+                       <li><a href="">Corte 3</a>
+                        <ul>
+                          <li><a href="tar15.html">Rutina Post</a></li>
+                          <li><a href="tarjeta post19.html">Tarjeta Post</a></li>
+                        
+                          <li><a href="diag12.html">Software de Diagnostico</a>
+                           <ul>
+                 <li><a href="cc7.html">Ccleanr</a></li>
+                 <li><a href="tun10.html">Tune Up</a></li>
+                 <li><a href="ar3.html">Argente Utilities</a></li>
+                      </ul>
+                 </li>
+             </ul>
+         </li>
+         <li><a href="practicas.html">Practicas</a></li>
+        </ul>
+
+      </div>
+    <div id="cuerpo">
+      <div id="efecto">
+      </div>
+      <div id="public">
+      </div>
+      <div id="logo">
+      </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,164 @@
+<html>
+<head>
+<title>CCleaner</title>
+<a name="arriba"></a>
+<style type="text/css">
+*{
+      margin:0px;
+      padding:0px;
+}
+#general{
+      margin:auto;
+      width:960px;
+      height:750px;
+      background-color:	 #de2046;
+      margin-top:10px;
+}
+#head{
+      width:960px;
+      height:220px;
+      background-image:url(imagenes/w97.png);
+      margin-top:0px;
+}
+#menu{
+      margin:auto:
+      width:960px;
+      height:30px;
+      background-color:#FFFFFF;
+      font-family:Verdana, Genova, sans-serif;
+}
+ul,ol{
+      list-style:none;
+}
+.nav li a{
+      background-color:	#FFFFFF;
+      color:#000000;
+      text-decoration:none;
+      padding:5.5px 60px;
+      display:block;
+}
+.nav li a:hover{
+      background-color:	#FFF0F5;
+      color:#000000;
+}
+.nav>li{
+      float:left;
+}
+.nav li ul{
+      display:none;
+      position:absolute;
+      min-width:140px;
+}
+.nav li:hover>ul{
+      display:block;
+}
+.nav li ul li{
+      position:relative;
+}
+.nav li ul li ul{
+      right:-130px,
+      top:0px;
+}
+</style>
+</head>
+<div id="general">
+      <div id="head">
+      </div>
+      <div id="menu">
+           <ul class="nav">
+                 <li><a href="MANTENIMIENTO DE EQUIPO DE COMPUTO34.html">Inicio</a>
+                 <li><a href="">Corte 1</a>
+                   <ul>
+                     <li><a href="ejemplo43.html">Historia De la Generaciones de las Computadoras</a></li>
+                     <li><a href="91.html">Linea del Tiempo de Dispositivos de Entrada y Salida</a></li>
+                     <li><a href="soft74.html">Software y Hadware de una Computadora</a></li>
+                     <li><a href="">Estructura de la Computadora</a>
+                       <ul>
+                          <li><a href="Ent36.html">Dispositivos de Entrada</a></li>
+                          <li><a href="sali40.html">Dispositivos de Salida de Datos</a></li> 
+                          <li><a href="pros39.html">Dispositivos de Procesamiento de Datos</a></li>
+                          <li><a href="alm48.html">Dispositivos de Almacenamiento de Datos</a></li>
+                          <li><a href="dispositivos21.html">Dispositivos de Mixtos</a></li>
+
+                     </ul>
+                    </li>
+                   </ul>
+                  </li>
+                  <li><a href="">Corte 2</a>
+                   <ul>
+
+                          <li><a href="tips12.html">Tipos de Sistemas</a></li>
+                          <li><a href="sis31.html">Sistema Operativo</a></li> 
+                          <li><a href="set21.html">Setup</a></li>
+                          <li><a href="di24.html">Disco Duro</a></li>
+                          <li><a href="anti43.html">Antivirus</a></li>
+                        </ul>
+
+                       </li>
+                       <li><a href="">Corte 3</a>
+                        <ul>
+                          <li><a href="tar15.html">Rutina Post</a></li>
+                          <li><a href="tarjeta post19.html">Tarjeta Post</a></li>
+                          <li><a href="diag12.html">Software de Diagnostico</a>
+                           <ul>
+                 <li><a href="cc7.html">Ccleaner</a></li>
+                 <li><a href="tun10.html">Tune Up</a></li>
+                 <li><a href="ar3.html">Argente Utilities</a></li>
+                      </ul>
+                 </li>
+             </ul>
+         </li>
+         <li><a href="">Practicas</a></li>
+        </ul>
+
+      </div>
+    <div id="cuerpo">
+      <div id="efecto">
+      </div>
+      <div id="public">
+      </div>
+      <div id="logo">
+      </div>
+</div>
+
+</head>
+
+<body bgcolor="#de2046">
+
+<font face="Copperplate Gothic Bold" color="white" size="5"><a href="#abajo">Ir a la parte de abajo</a>
+<br>
+</br>
+
+<font face="System" color="white" size="5"><br>Es una aplicación gratuita, de código cerrado, que tiene como propósito mejorar el rendimiento de cualquier equipo que ejecute Microsoft Windows mediante la eliminación de los archivos innecesarios y las entradas inválidas del registro de Windows además cuenta con la posibilidad de desinstalar programas desde su interfaz e inhabilitar la ejecución de aplicaciones en el inicio del sistema para mejorar la velocidad de arranque.
+</br> Características: Este software es muy eficiente y conveniente debido a que es gratuito pero carece de algunas herramientas con las que cuentan otros programas, pero para el usuario normal no habrá ningún inconveniente en usarlo, debido a que es fácil de utilizar y muy amigable para el usuario.</font>
+<div align="center"><br><img src="imagenes\w98.jpg" alt "paisaje 2" width="300" height="250"></div></br>
+<font face="System" color="white" size="5">Características: Este software es muy eficiente y conveniente debido a que es gratuito pero carece de algunas herramientas con las que cuentan otros programas, pero para el usuario normal no habrá ningún inconveniente en usarlo, debido a que es fácil de utilizar y muy amigable para el usuario.
+
+</font>
+<br><font face="System" color="white" size="7">Funciones:</br>
+
+<font face="System" color="white" size="5"><br>*Asegura la navegación.</br>
+<br>*Reduce los errores.</br>
+<br>*Vuelve estable el PC.</br>
+<br>*Deshabilita programas innecesarios.</br>
+</font>
+
+
+
+<br></br>
+
+
+<div aling="center"><img src="imagenes\w99.jpg" alt "paisaje 2" width="300" height="250">
+<img src="imagenes\w100.jpg" alt "paisaje 2" width="300" height="250">
+<img src="imagenes\w101.jpg" alt "paisaje 2" width="300" height="250"></div>
+
+
+<br></br>
+<div align="center"><table border="6">
+<tr>
+  <td><br><font face="Copperplate Gothic Bold" color="white" size="5"><a href="#arriba">Ir a la parte de arriba</a></font>
+<a name="abajo"></a></br></td><td><br><a href="MANTENIMIENTO DE EQUIPO DE COMPUTO34.html"><font face="Copperplate Gothic Bold" color="white" size="5">Regresar a pagina principal </font></a><br></td>
+</tr></div>
+</table>
+</body>
+</html>

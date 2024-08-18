@@ -1,0 +1,352 @@
+<html>
+<head>
+<title>Dispositivos de Procesamiento de Datos</title>
+
+<a name="arriba"></a>
+<style type="text/css">
+*{
+      margin:0px;
+      padding:0px;
+}
+#general{
+      margin:auto;
+      width:960px;
+      height:750px;
+      background-color:	#D8BFD8;
+      margin-top:10px;
+}
+#head{
+      width:960px;
+      height:220px;
+      background-image:url(imagenes/w66.png);
+      margin-top:0px;
+}
+#menu{
+      margin:auto:
+      width:960px;
+      height:30px;
+      background-color:#FFFFFF;
+      font-family:Verdana, Genova, sans-serif;
+}
+ul,ol{
+      list-style:none;
+}
+.nav li a{
+      background-color:#FFFFFF;
+      color:#663399;
+      text-decoration:none;
+      padding:5.5px 60px;
+      display:block;
+}
+.nav li a:hover{
+      background-color:	#DDA0DD;
+      color:#000000;
+}
+.nav>li{
+      float:left;
+}
+.nav li ul{
+      display:none;
+      position:absolute;
+      min-width:140px;
+}
+.nav li:hover>ul{
+      display:block;
+}
+.nav li ul li{
+      position:relative;
+}
+.nav li ul li ul{
+      right:-130px,
+      top:0px;
+}
+</style>
+</head>
+<div id="general">
+      <div id="head">
+      </div>
+      <div id="menu">
+           <ul class="nav">
+                 <li><a href="MANTENIMIENTO DE EQUIPO DE COMPUTO34.html">Inicio</a>
+                 <li><a href="">Corte 1</a>
+                   <ul>
+                     <li><a href="ejemplo43.html">Historia De la Generaciones de las Computadoras</a></li>
+                     <li><a href="91.html">Linea del Tiempo de Dispositivos de Entrada y Salida</a></li>
+                     <li><a href="soft74.html">Software y Hadware de una Computadora</a></li>
+                     <li><a href="">Estructura de la Computadora</a>
+                       <ul>
+                          <li><a href="Ent3.html">Dispositivos de Entrada</a></li>
+                          <li><a href="sali40.html">Dispositivos de Salida de Datos</a></li> 
+                          <li><a href="pros39.html">Dispositivos de Procesamiento de Datos</a></li>
+                          <li><a href="alm38.html">Dispositivos de Almacenamiento de Datos</a></li>
+                          <li><a href="dispositivos21.html">Dispositivos de Mixtos</a></li>
+
+                     </ul>
+                    </li>
+                   </ul>
+                  </li>
+                  <li><a href="">Corte 2</a>
+                   <ul>
+
+                          <li><a href="tips12.html">Tipos de Sistemas</a></li>
+                          <li><a href="sis31.html">Sistema Operativo</a></li> 
+                          <li><a href="set21.html">Setup</a></li>
+                          <li><a href="di24.html">Disco Duro</a></li>
+                          <li><a href="anti43.html">Antivirus</a></li>
+                        </ul>
+
+                       </li>
+                       <li><a href="">Corte 3</a>
+                        <ul>
+                          <li><a href="tar15.html">Rutina Post</a></li>
+                          <li><a href="tarjeta post19.html">Tarjeta Post</a></li> 
+                          
+                          <li><a href="diag12.html">Software de Diagnostico</a>
+                           <ul>
+                 <li><a href="cc7.html">Ccleaner</a></li>
+                 <li><a href="tun10.html">Tune Up</a></li>
+                 <li><a href="ar3.html">Argente</a></li>
+                 
+                      </ul>
+                 </li>
+             </ul>
+         </li>
+         <li><a href="practicas1.html">Practicas</a></li>
+        </ul>
+
+      </div>
+    <div id="cuerpo">
+      <div id="efecto">
+      </div>
+      <div id="public">
+      </div>
+      <div id="logo">
+      </div>
+</div>
+</head>
+<body bgcolor="	#D8BFD8">
+<font face="Copperplate Gothic Bold" color="white" size="4"><a href="#abajo">Ir a la parte de abajo</a>
+<br><br>
+<h3 align="justify"><font size=5 color="black">Elementos que realizan el "trabajo pesado" del equipo de computo. Procesan los datos introducidos, por el usuario y de acuerdo con los pasos determinados por un programa, proporcionan un resultado especifico 
+<br></br>Ejemplos:</h3>
+<br></br>
+<table border="3">
+<tr>
+  <td colspan="0"><div align="center"> <font face="Copperplate Gothic Bold" size="30" color="White">Tarjeta Madre:</font></td></div>
+</tr>
+
+<tr>
+  <td><br>
+<h3 align="justify"> La tarjeta madre (motherboard), también llamada placa base, es una placa con circuitos impresos y soldados que interconectan todas las piezas electrónicas de la computadora. Esta, integra y coordina todos los elementos que permiten el adecuado funcionamiento de una PC, de este modo, una tarjeta madre es aquel dispositivo que opera como plataforma o circuito principal de una computadora.Físicamente, se trata de una placa de material sintético, sobre la cual existe un circuito electrónico que conecta diversos componentes que se encuentran insertados o montados sobre ésta.</h3></br></td>
+  <td><br>
+<img src="imagenes\c3.jpg" alt "paisaje 2" width="500" height="450">
+</br></td>
+</tr>
+</table>
+
+
+
+
+<table border="3">
+<tr>
+  <td colspan="2">
+<font face="Copperplate Gothic Bold" size="30" color="white"><div align="center">Zócalo de CPU o socket:</div></font></td>
+</tr>
+
+<tr>
+  <td>
+<br>
+<h3 align="justify"> Es una cavidad que recibe al microprocesador y lo conecta con el resto de los componentes a través de la placa base.</h3></td></br>
+  <td>
+<img src="imagenes\c4.jpg" alt "paisaje 2" width="400" height="350">
+</td>
+</tr>
+</table>
+
+
+<table border="3">
+<tr>
+  <td colspan="2"><font face="Copperplate Gothic Bold" size="30" color="white"><div align="center">Procesador </div></font></td>
+</tr>
+
+<tr>
+  <td><br>
+<h3 align="justify">También llamado Unidad Central de Procesamiento o CPU (Central Processing Unit), es el componente central de la PC. Es un chip, con circuitos integrados de gran escala que se encarga de realizar las operaciones lógico-matemáticas y controla todos los dispositivos de la PC. Todo el trabajo que ejecuta la computadora es realizado, directa o indirectamente, por él. Es el cerebro de la computadora.</br>
+<br>El procesador se compone de la Unidad Aritmética Lógica ALU, la cual se encarga de realizar las operaciones lógico-matemáticas; y de la Unidad de Control CU, la cual permite que se ejecuten todos los programas llevando el control de todos los dispositivos de la PC. Estas, trabajan juntas para procesar datos y controlar los componentes de la computadora. Este componente mide su velocidad de procesamiento en Hercios (Hz).</h3></td></br>
+  <td><img src="imagenes\c5.jpg" alt "paisaje 2" width="400" height="350"></td>
+</tr>
+</table>
+
+
+<table border="3">
+<tr>
+  <td colspan="2">
+ <font face="Copperplate Gothic Bold" size="30" color="white"><div align="center">Disipador del Procesador</div></font></td>
+</tr>
+
+<tr>
+  <td><br>
+<h3 align="justify"> Dispositivo metálico que se utiliza para mantener la temperatura del microprocesador en niveles óptimos. El disipador del procesador se ubica encima de este, y sobre el disipador se coloca un ventilador/cooler. Al poner el disipador sobre el procesador debemos de poner una pasta o gelesito para que no se queme el CPU. Fabricantes IBM, Intel, Zilog, Motorola, Cyrix y AMD </h3></td>
+  <td><img src="imagenes\c6.jpg" alt "paisaje 2" width="400" height="350"></td>
+</tr>
+</table>
+
+
+<table border="3">
+<tr>
+  <td colspan="2">
+
+
+ <font face="Copperplate Gothic Bold" size="30" color="white"><div align="center">BIOS </div></font></td>
+</tr>
+
+<tr>
+  <td><br>
+<h3 align="justify">(Basic Input Output System- sistema básico de entrada y salida): es el software básico de un ordenador que contiene los programas básicos (todas las instrucciones) que  permiten controlar todos los elementos del hardware. Se encuentra almacenado en un chip de memoria EPROM.</h3></td></br>
+  <td><img src="imagenes\c7.jpg" alt "paisaje 2" width="400" height="350"></td>
+</tr>
+</table>
+
+
+
+<table border="3">
+<tr>
+  <td colspan="2"><font face="Copperplate Gothic Bold" size="30" color="white"><div align="center">Pila </div></font></td>
+</tr>
+
+<tr>
+  <td><br>
+<h3 align="justify">Es la encargada de suministrar la energía al BIOS permitiendo su funcionamiento.</h3></td>
+  <td>
+<img src="imagenes\c8.png" alt "paisaje 2" width="400" height="350"></td>
+</tr>
+</table>
+
+
+<table border="3">
+<tr>
+  <td colspan="2"><font face="Copperplate Gothic Bold" size="30" color="white"><div align="center">Chipset:</div> </font></td>
+</tr>
+
+<tr>
+  <td><br>
+<h3 align="justify">es un conjunto de chips con una serie de circuitos electrónicos, que permiten las transferencias de datos entre los diferentes componentes de la computadora a través del procesador, coordinándolo con los demás dispositivos (memoria, tarjeta gráfica, disco duro, etc.). Es el encargado de poner en comunicación al procesador con el resto de los elementos del ordenador, permitiendo su control.</h3></td></br>
+  <td>
+<img src="imagenes\c9.jpg" alt "paisaje 2" width="400" height="350"></td>
+</tr>
+</table>
+
+
+<table border="3">
+<tr>
+  <td colspan="2"><font face="Copperplate Gothic Bold" size="30" color="white"><div align="center">Fuente de poder </div></font></td>
+</tr>
+
+<tr>
+  <td><br>
+<h3 align="justify">Es un dispositivo donde se encuentra conectada la tarjeta madre de la PC para que esta pueda localizarse en cualquier contacto de energía eléctrica, encargado de tomar la corriente alterna y transformarla en  corrientes y voltajes, proporcionando así a la placa base los diferentes voltajes e intensidades necesarios para su funcionamiento.
+Composición: tienen un ventilador, el cual sirve para evitar el sobre calentamiento de la fuente de poder, expulsando el aire caliente generado; un conector de alimentación, que se encarga de conectarlo a la electricidad; el selector de voltaje, conector de suministro, conectores ATA, conectores de cuatro terminales y el interruptor manual, para prenderlo y apagarlo. </h3></br></td>
+  <td>
+<img src="imagenes\c10.jpg" alt "paisaje 2" width="400" height="350"></td>
+</tr>
+</table>
+
+
+<br></br>
+
+<table border="3">
+<tr>
+  <td colspan="2"> <font face="Copperplate Gothic Bold" size="30" color="white"><div align="center">Ranuras de expansión:</div> </font></td>
+</tr>
+
+<tr>
+  <td><br>
+<h3 align="justify">son conectores que permiten interconectar tarjetas de vídeo, audio, gráficos, adaptadores de red, expansión de puertos y otros muchos periféricos con la placa base.</h3></td>
+  <td><img src="imagenes\c11.jpg" alt "paisaje 2" width="400" height="350"></td>
+</tr>
+</table>
+
+
+<table border="3">
+<tr>
+  <td colspan="2">
+<font face="Copperplate Gothic Bold" size="30" color="white"><div align="center">Conectores EIDE </font></td></div>
+</tr>
+
+<tr>
+  <td><br>
+<h3 align="justify">(Enhanced Integrates Dtive Electronics): es una interfaz para la conexión de discos duros y CD-ROM. Puede medir 40 cm de largo y son anchos.</h3></br></td>
+  <td>
+<img src="imagenes\c12.jpg" alt "paisaje 2" width="400" height="350"></td>
+</tr>
+</table>
+
+
+<table border="3">
+<tr>
+  <td colspan="2"><font face="Copperplate Gothic Bold" size="30" color="white"><div align="center">Conectores S-ATA</font></td></div>
+</tr>
+
+<tr>
+  <td>
+<br>
+<h3 align="justify">Es una conexión en serie para conectar el disco duro. Son cables más delgados y alargados, con un mínimo de cuatro alambres. Pueden medir hasta un metro de largo. Este tipo de interfaz crea una conexión punto a punto  entre dos dispositivos, proporcionando mayor velocidad. Mejora el rendimiento si hay varios discos rígidos  conectados y además permite conectar discos cuando la computadora está encendida. </h3></br></td>
+  <td>
+<img src="imagenes\c13.jpg" alt "paisaje 2" width="400" height="350"></td>
+</tr>
+</table>
+</br>
+
+<table border="3">
+<tr>
+  <td colspan="2"><font face="Copperplate Gothic Bold" size="30" color="white"><div align="center">Memoria Caché o ROM  </font></td></div>
+</tr>
+
+<tr>
+  <td><br>
+<h3 align="justify">(Read Only Memory) o lectura: es la que hace que el procesador sea más rápido que la memoria RAM. Cuando el procesador necesita información, la toma de la memoria cache, la cual va copiando dicha información de la memoria RAM antes de que el procesador la necesite. Además, es una memoria que contiene toda la información instalada por el fabricante del equipo, entre ella se incluyen instrucciones que permiten el arranque y funcionamiento de los dispositivos que conforman la computadora. Esta memoria es permanente, no se puede modificar.</td></h3></br>
+  <td>
+
+<img src="imagenes\c14.jpg" alt "paisaje 2" width="400" height="350"></td>
+</tr>
+</table>
+
+
+<table border="3">
+<tr>
+  <td colspan="2"> <font face="Copperplate Gothic Bold" size="30" color="white"><div align="center">Memoria RAM  </font></td>
+</tr></div>
+
+<tr>
+  <td>
+<br>
+<h3 align="justify">(Random Access Memory) o Memoria de Acceso Aleatorio: es la memoria desde donde el procesador recibe las instrucciones para realizar ciertas acciones y guarda los resultados. Esta memoria almacena temporalmente todos los datos con los que están trabajando el procesador y el usuario. No almacena información de forma permanente y funciona mientras en el sistema fluya corriente eléctrica.</br></h3></td>
+  <td><img src="imagenes\c15.jpg" alt "paisaje 2" width="400" height="350"></td>
+</tr>
+</table>
+</br>
+
+<table border="3">
+<tr>
+  <td colspan="2"><font face="Copperplate Gothic Bold" size="30" color="white"><div align="center">Conectores del panel frontal o Jumpers: </div></font></td>
+</tr>
+
+<tr>
+  <td><br>
+<h3 align="justify">Es un conjunto de pines que tienen como finalidad hacer funcionar el botón de encendido y el de reset.</h3></td>
+  <td>
+<img src="imagenes\c16.jpg" alt "paisaje 2" width="400" height="350"></td>
+</tr>
+</table>
+
+<div align="center">
+<table border="3">
+<tr>
+  <td><br><font face="Copperplate Gothic Bold" color="white" size="5"> <a href="#arriba">Ir a la parte de arriba</a></font>
+<a name="abajo"></a></br></td><td><br><a href="MANTENIMIENTO DE EQUIPO DE COMPUTO34.html"><font face="Copperplate Gothic Bold" color="white" size="5">Regresar a pagina principal </font></a><br></td></div>
+</tr></div>
+</table>
+ 
+</br>
+</body>
+</html>

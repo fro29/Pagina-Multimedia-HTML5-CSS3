@@ -1,0 +1,170 @@
+<html>
+<head>
+<title>Tarjeta Post</title>
+<a name="arriba"></a>
+<style type="text/css">
+*{
+      margin:0px;
+      padding:0px;
+}
+#general{
+      margin:auto;
+      width:960px;
+      height:750px;
+      background-color:#F08080;
+      margin-top:10px;
+}
+#head{
+      width:960px;
+      height:220px;
+      background-image:url(imagenes/w85.png);
+      margin-top:0px;
+}
+#menu{
+      margin:auto:
+      width:960px;
+      height:30px;
+      background-color:#FFFFFF;
+      font-family:Verdana, Genova, sans-serif;
+}
+ul,ol{
+      list-style:none;
+}
+.nav li a{
+      background-color:	#FFFFFF;
+      color:#000000;
+      text-decoration:none;
+      padding:5.5px 60px;
+      display:block;
+}
+.nav li a:hover{
+      background-color:	#FFF0F5;
+      color:#000000;
+}
+.nav>li{
+      float:left;
+}
+.nav li ul{
+      display:none;
+      position:absolute;
+      min-width:140px;
+}
+.nav li:hover>ul{
+      display:block;
+}
+.nav li ul li{
+      position:relative;
+}
+.nav li ul li ul{
+      right:-130px,
+      top:0px;
+}
+</style>
+</head>
+<div id="general">
+      <div id="head">
+      </div>
+      <div id="menu">
+           <ul class="nav">
+                 <li><a href="MANTENIMIENTO DE EQUIPO DE COMPUTO34.html">Inicio</a>
+                 <li><a href="">Corte 1</a>
+                   <ul>
+                     <li><a href="ejemplo43.html">Historia De la Generaciones de las Computadoras</a></li>
+                     <li><a href="91.html">Linea del Tiempo de Dispositivos de Entrada y Salida</a></li>
+                     <li><a href="soft74.html">Software y Hadware de una Computadora</a></li>
+                     <li><a href="">Estructura de la Computadora</a>
+                       <ul>
+                          <li><a href="Ent36.html">Dispositivos de Entrada</a></li>
+                          <li><a href="sali40.html">Dispositivos de Salida de Datos</a></li> 
+                          <li><a href="pros39.html">Dispositivos de Procesamiento de Datos</a></li>
+                          <li><a href="alm48.html">Dispositivos de Almacenamiento de Datos</a></li>
+                          <li><a href="dispositivos21.html">Dispositivos de Mixtos</a></li>
+
+                     </ul>
+                    </li>
+                   </ul>
+                  </li>
+                  <li><a href="">Corte 2</a>
+                   <ul>
+
+                          <li><a href="tips12.html">Tipos de Sistemas</a></li>
+                          <li><a href="sis31.html">Sistema Operativo</a></li> 
+                          <li><a href="set21.html">Setup</a></li>
+                          <li><a href="di24.html">Disco Duro</a></li>
+                          <li><a href="anti43.html">Antivirus</a></li>
+                        </ul>
+
+                       </li>
+                       <li><a href="">Corte 3</a>
+                        <ul>
+                          <li><a href="tar15.html">Rutina Post</a></li>
+                          <li><a href="tarjeta post19.html">Tarjeta Post</a></li>
+                          <li><a href="diag12.html">Software de Diagnostico</a>
+                           <ul>
+                 <li><a href="cc7.html">Ccleaner</a></li>
+                 <li><a href="tarjeta post19.html">Tune Up</a></li>
+                 <li><a href="ar3.html">Argente Utilities</a></li>
+                      </ul>
+                 </li>
+             </ul>
+         </li>
+         <li><a href="practicas1.html">Practicas</a></li>
+        </ul>
+
+      </div>
+    <div id="cuerpo">
+      <div id="efecto">
+      </div>
+      <div id="public">
+      </div>
+      <div id="logo">
+      </div>
+</div>
+
+</head>
+
+<body bgcolor="	#F08080">
+
+<font face="Copperplate Gothic Bold" color="white" size="5"><a href="#abajo">Ir a la parte de abajo</a>
+<br>
+</br>
+<div align="center"><font face="System" color="white" size="7">Tarjeta de Diagnóstico Post</div>
+<font face="System" color="white" size="5"><br>La tarjeta de diagnóstico POST es una herramienta que permite visualizar los códigos POST; y de esta manera, se detectan con facilidad los elementos de hardware que están causando algún conflicto en el momento del arranque de la máquina.</br><br>Esta tarjeta debe incluir un manual de operación y una serie de tablas en las que se especifique el significado de cada código POST. Sin estas claves, la placa casino sirve de nada.</br><br>Si bien existen varias marcas y tipos de tarjetas POST, todas tienen elementos en común.
+</br></font>
+<div align="center"><font face="System" color="white" size="7"><br>Partes de la Post.</br></font></div>
+<div align="center"><br><img src="imagenes\w86.jpg" alt "paisaje 2" width="600" height="500"></div></br>
+
+<font face="System" color="white" size="7"><br>1)Conectores:<br></font>
+<font face="System" color="white" size="5"><br>Permiten insertar la tarjeta POST en ranuras de expansión tipo PCI o ISA, por lo que la placa puede colocarse en todas las máquinas comprendidas entre la generación de sistemas tipo AT (con microprocesador 286) y la generación de sistemas dotados con circuitos Pentium 4 o Athlon.</br></font>
+<div align="center"><br><img src="imagenes\w87.jpg" alt "paisaje 2" width="400" height="300"></div>
+
+<font face="System" color="white" size="7"><br>2)Display doble de 7 segmentos:</font>
+<br><font face="System" color="white" size="5"><br>En este visualizador se expiden los códigos POST, en forma de una palabra hexadecimal, formato que se eligió porque es más fácil interpretar una combinación de dos números y letras que ocho bits individuales. También en  formato hexadecimal se especifica el significado de cada código POST en las tablas correspondientes.
+</br></font>
+<div align="center"><br><img src="imagenes\w88.jpg" alt "paisaje 2" width="400" height="300"></div>
+
+
+<font face="System" color="white" size="7"><br>3)LED:</br></font>
+<font face="System" color="white" size="5"><br>Sirve para monitorear de manera visual algunas de las señales más importantes que se obtienen en la tarjeta madre de una PC; por ejemplo, la señal del reloj del sistema, la señal de Reset, los voltajes de la fuente de poder, etc. En el manual específico de cada tarjeta se podrá conocer el significado de cada uno de los LED auxiliares.
+</br></font>
+<div align="center"><br><img src="imagenes\w89.jpg" alt "paisaje 2" width="400" height="300"></div>
+
+
+<font face="System" color="white" size="7"><br>4)Conexión para display adicional:</br></font>
+<font face="System" color="white" size="5"><br>Algunas tarjetas incluyen un visualizador adicional que puede colocarse encualquier posición para que se facilite la consulta de los códigos</br></font>
+<div align="center"><br><img src="imagenes\w90.jpg" alt "paisaje 2" width="400" height="300"></div>
+
+
+<font face="System" color="white" size="7"><br>5)Zumbador:</br></font>
+<font face="System" color="white" size="5"><br>Traduce en códigos audibles las señales que la computadora genera cuandodetecta una falla</font></br>
+<div align="center"><br><img src="imagenes\w91.jpg" alt "paisaje 2" width="400" height="300"></div>
+<br></br>
+
+<div align="center"><table border="6">
+<tr>
+  <td><br><font face="Copperplate Gothic Bold" color="white" size="5"><a href="#arriba">Ir a la parte de arriba</a></font>
+<a name="abajo"></a></br></td><td><br><a href="MANTENIMIENTO DE EQUIPO DE COMPUTO34.html"><font face="Copperplate Gothic Bold" color="white" size="5">Regresar a pagina principal </font></a><br></td>
+</tr></div>
+</table>
+</body>
+</html>

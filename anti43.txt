@@ -1,0 +1,252 @@
+<html>
+<head>
+<title> Antivirus</title>
+<style type="text/css">
+<a name="arriba"></a>
+*{
+     margin:0px;
+     padding:0px;
+}
+#general{
+      margin:auto;
+      width:960px;
+      height:750px;
+      background-color:#87CEFA;
+      margin-top:10px;
+}
+#head{
+      width:960px;
+      height:220px;
+      background-image:url(imagenes/w49.png);
+      margin-top:0px;
+}
+#menu{
+      margin:auto:
+      width:960px;
+      height:30px;
+      background-color:#FFFFFF;
+      font-family:Verdana, Genova, sans-serif;
+}
+ul,ol{
+      list-style:none;
+}
+.nav li a{
+      background-color:#FFFFFF;
+      color:#000000;
+      text-decoration:none;
+      padding:5.5px 60px;
+      display:block;
+}
+.nav li a:hover{
+      background-color:#87CEFA;
+      color:#FFFFFF;
+}
+.nav>li{
+      float:left;
+}
+.nav li ul{
+      display:none;
+      position:absolute;
+      min-width:140px;
+}
+.nav li:hover>ul{
+      display:block;
+}
+.nav li ul li{
+      position:relative;
+}
+.nav li ul li ul{
+      right:-130px,
+      top:0px;
+}
+</style>
+</head>
+<div id="general">
+      <div id="head">
+      </div>
+      <div id="menu">
+           <ul class="nav">
+                 <li><a href="MANTENIMIENTO DE EQUIPO DE COMPUTO34.html">Inicio</a>
+                 <li><a href="">Corte 1</a>
+                   <ul>
+                     <li><a href="ejemplo43.html">Historia De la Generaciones de las Computadoras</a></li>
+                     <li><a href="91.html">Linea del Tiempo de Dispositivos de Entrada y Salida</a></li>
+                     <li><a href="soft74.html">Software y Hadware de una Computadora</a></li>
+                     <li><a href="">Estructura de la Computadora</a>
+                       <ul>
+                          <li><a href="Ent36.html">Dispositivos de Entrada</a></li>
+                          <li><a href="sali40.html">Dispositivos de Salida de Datos</a></li> 
+                          <li><a href="pros39.html">Dispositivos de Procesamiento de Datos</a></li>
+                          <li><a href="alm38.html">Dispositivos de Almacenamiento de Datos</a></li>
+                          <li><a href="dispositivos21.html">Dispositivos de Mixtos</a></li>
+
+                     </ul>
+                    </li>
+                   </ul>
+                  </li>
+                  <li><a href="">Corte 2</a>
+                   <ul>
+
+                          <li><a href="tips12.html">Tipos de Sistemas</a></li>
+                          <li><a href="sis31.html">Sistema Operativo</a></li> 
+                          <li><a href="set21.html">Setup</a></li>
+                          <li><a href="di24.html">Disco Duro</a></li>
+                          <li><a href="anti43.html">Antivirus</a></li>
+                        </ul>
+
+                       </li>
+                       <li><a href="">Corte 3</a>
+                        <ul>
+                          <li><a href="tar15.html">Rutina Post</a></li>
+                          <li><a href="tarjeta post19.html">Tarjeta Post</a></li>
+                          <li><a href="diag12.html">Software de Diagnostico</a>
+                           <ul>
+                 <li><a href="cc7.html">Ccleaner</a></li>
+                 <li><a href="tun10.html">Tune Upt</a></li>
+                 <li><a href="ar3.html">Argente Utilities</a></li>
+              
+                      </ul>
+                 </li>
+             </ul>
+         </li>
+         <li><a href="practicas1.html">Practicas</a></li>
+        </ul>
+
+      </div>
+    <div id="cuerpo">
+      <div id="efecto">
+      </div>
+      <div id="public">
+      </div>
+      <div id="logo">
+      </div>
+</div>
+</style>
+</head>
+<body bgcolor="	#87CEFA">
+<font face="Copperplate Gothic Bold" color="white" size="5"><a href="#abajo">Ir a la parte de abajo</a>
+<br></br>
+<br><font color="black">Los antivirus son programas que fueron creados en la decada de los 80's con el objetivo de detectar y eliminar virus informáticos. </font></br>
+
+<br><div align="center"><img src="imagenes\an.png" alt "paisaje 2" width="400" height="350"></div></br>
+
+<font color="black"><br>Con el paso del tiempo los sistemas operativos e internet han evolucionando, lo que ha hecho que los  
+antivirus se actualicen constantemente, convirtiéndose en programas  avanzados que no sólo detectan los virus, sino que los  
+bloquean, desinfectan archivos y previenen infecciones de los mismos.</br>
+<br> Actualmente, los antivirus reconocen diferentes tipos de virus como malware, spyware, gusanos, troyanos, rootkits,  
+etc.</br></font>
+
+<br><div align="center"><font color="black">Clasificación de los antivirus:</font></div></br>
+
+<br><div align="center"><img src="imagenes\an1.png" alt "paisaje 2" width="450" height="350"></div></br>
+
+<br><div align="center"><font color="black">°Antivirus preventores:</font></div></br>
+
+
+<br><font color="black">Con el paso del tiempo los sistemas operativos e internet han evolucionando, lo que ha hecho que los  
+antivirus se actualicen constantemente, convirtiéndose en programas  avanzados que no sólo detectan los virus, sino que los  
+bloquean, desinfectan archivos y previenen infecciones de los mismos. Actualmente, los antivirus reconocen diferentes tipos  
+de virus como malware, spyware, gusanos, troyanos, rootkits, etc.</font></br>
+
+<br><div align="center"><font color="black">°Antivirus descontaminadores:</font></div></br>
+
+<br><font color="black">Tienen características similares a los  identificadores. Sin embargo, se diferencian en que  estos  
+antivirus se especializan en descontaminar un sistema que fue infectado, a través de la eliminación de programas malignos. El objetivo principal de este tipo de virus  es que el sistema vuelva a estar como en un inicio.</font></br>
+
+<br><div align="center"><font color="black">°Antivirus identificadores:</font></div></br>
+
+<br><font color="black">Este tipo de antivirus tiene objetivo identificar programas infecciosos que pueden afectar el  
+sistema. Además, rastrean secuencias de códigos específicos vinculados con dichos virus.</font></br>
+<br></br>
+<br><div align="center"><font color="black">Ejemplos de Antivirus:</div></font></br>
+<br><font color="black">Panda Security</font></br>
+
+<font color="black"><br> También es uno de los mejores antivirus del mercado. Posee una base de virus grande comparándola con  Norton y McAfee. Por lo tanto en cuanto a detección de virus directamente es prácticamente el mejor.</br><br>El monitoreo de  programas en segundo plano usa los recursos de nuestro sistema y puede volverlo algo lento.Tiene la posibilidad de elegir  
+entre dos tipos de interfaces: simple y avanzada. Para tener un mejor control de los virus, preferimos la avanzada.También  
+posee programas para la detección de virus por correo electrónico, o archivos bajados de Internet (www y ftp). Crea discos de  salvación muy buenos también.En cuanto a la interface, existen opiniones ambiguas. A nuestro parecer, posee un diseño muy  
+profesional y fácil de manejar.</font></br>
+
+<br><font color="black"><div align="center">Ventajas: </div></br>
+
+<br><font color="black">1.- Tiene una de las mayores bases de datos y es muy bueno para limpiar una máquina que ya lleva un  
+tiempo infectada </br><br>
+2.- Descarga las actualizaciones al 100% (casi todo el resto de los antivirus descarga aproximadamente poco más del 30%) 
+</br><br>3.- Es fácil de usar </br>
+<br>4.- Cuenta con buena heurística avanzada</br> </font>
+
+<br><font color="black"><div align="center">Desventajas:</div></font></br>
+<font color="black"><br>1.- Es uno de los antivirus más pesados de todos junto con el norton y el mcafee </br><br>
+2.- Es uno de los antivirus más inestables. Casi siempre da problemas. Hay gente que cuando lo desinstaló, les llevó unos  
+dlls de Windows. A mí, un misterioso desbordamiento de búfer (que después me enteré de que fue producido por el osito) me  
+borró todo lo que tenía en un cd cuando estaba grabando.  </br><br> 
+3.- La heurística es muy buena cuando se trata de eliminarte programas inofensivos</font></br> 
+<br><div align="center"><img src="imagenes\an2.jpg" alt "paisaje 2" width="400" height="300"></div></br>
+
+
+<div align="center"><br><font color="black"> McAffee</font></div></br>
+<br> <font color="black">Es una compañía de software especializada en seguridad informática cuya sede se encuentra en Santa  
+Clara, California. Su producto más conocido es el antivirus McAfee VirusScan.<br> La empresa fue fundada en 1987 con el  
+nombre de McAfee Associates, en honor a su fundador, John McAfee. En 1997, como consecuencia de la fusión entre McAfee  
+Associates y Network General, el nombre fue reemplazado por el de Network Associates.</br><br> En 2004 la compañía sufrió una  
+profunda reestructuración. Durante la primavera de ese año, la filial Magic Solutions fue vendida a Remedy, una subsidiaria  
+de BMC Software.4 Durante el verano, la filial Sniffer Technologies siguió el mismo camino, siendo adquirida por la firma  
+llamada Network General (el mismo nombre del propietario original). Asimismo, la compañía volvió a cambiar el nombre a McAfee  
+para reflejar su política centrada en tecnologías relacionadas con la seguridad.</font></br></td>
+
+<div align="center"><font color="black"><br>Ventajas y desventajas:</div></br></font>
+<font color="black"><br>Ventajas: Consume pocos recursos, chequeo continuo, sencillo y eficaz en su manejo, gran cantidad de  
+virus detectados, no te quita casi recursos</br></font> <font color="black"><br>Desventajas: Periodicidad actualizaciones,  
+escapan algunos virus, Ralentiza un poco la navegación por Internet, No se actualiza muy frecuentemente.</br></font>
+<br><div align="center"><img src="imagenes\an3.png" alt "paisaje 2" width="400" height="350"></br></div>
+
+<div align="center"><font color="black"><br>Avast</br></font></div>
+<br><font color="black">Anteriormente escrito como avast!. Es un software antivirus y suite de seguridad de la firma checa  
+Avast Software (antes llamada ALWIL Software), desarrollada a principios de la década de 1990. Según el informe OPSWAT de  
+enero de 2015, con una cuota del mercado de 21,4% es el software antivirus gratuito más utilizado en el mundo.1 </br><br>Según sus creadores, Avast fue concebido originalmente bajo el nombre de 'Anti-Virus Advanced Set' (Cuyas iniciales forman el nombre actual de la marca), además de que, en la jerga Pirata, la expresión avast! significa alto! o detenerse, por lo que se  utilizó para la identidad del producto.2 A partir de la edición 2015, avast! paso a llamarse 'Avast' por razones  
+desconocidas.</br></font>
+
+<br><div align="center"><font color="black">Ventajas:</div></font></br>
+
+<br><font color="black"><br>*Es Gratuito </br><br>
+*Es la mejor protección antivirus gratuita disponible, con anti-spyware, anti-rootkit y una fuerte auto-protección  
+incorporada en sí mismo para evitar que cualquier malware la desconecte.</br><br> 
+*Actualiza diariamente su base de datos de definiciones de virus. </br><br>
+*Cuenta con una buena heurística; que es la técnica que emplean los antivirus para reconocer códigos maliciosos tales como  
+virus, gusanos, troyanos, etc. y que no se encuentran en su base de datos. </br><br>
+*Como la mayoría de los antivirus, protege en tiempo real y también vigila las vías más habituales de entrada de virus, como  
+programas P2P, programas de mensajería instantánea y correo electrónico. </br><br>
+*Es un antivirus que detecta virus de todo tipo, incluso aquellos que son capaces de modificarse a sí mismos.</br><br> 
+*Te proporciona una licencia válida por un año y renovable por otro año más al finalizar el primer período, contando de esta  
+forma con un antivirus 100% funcional. </br>
+
+<br><div align="center"><font color="black">Desventajas:</font></div></br>
+
+<font color="black"><br>
+*Si no tienes internet no se va a actualizar<br>
+<br>
+*Te consume muchos recursos de la pc </br><br>
+*No tiene cortafuegos </br><br>
+*No limpia el navegador ni archivos de basura del PC </br><br>
+*Tiene POP-UPS 
+*No tiene proteccion del rasomware </br><br>
+*No tiene proteccion contra Backdoors </br><br>
+*No oculta muy bien tu IP </br><br>
+*No tiene Control Parental </br><br>
+*Le faltan mas opciones </br></font>
+
+
+<div align="center"><img src="imagenes\an5.jpg" alt "paisaje 2" width="400" height="350"></div>
+<br>
+</br>
+
+<div align="center"><table border="3">
+
+<tr>
+  <td><font face="Copperplate Gothic Bold" color="white" size="5"><a href="#arriba">Ir a la parte de arriba</a></font>
+<a name="abajo"></a></td><td><a href="MANTENIMIENTO DE EQUIPO DE COMPUTO34.html"><font face="Copperplate Gothic Bold" color="white" size="5">Regresar a pagina principal </font></a></td>
+</tr></div>
+</table>
+</body>
+</html>
+
+

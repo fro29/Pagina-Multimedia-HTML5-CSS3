@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Sistema Operativo</title>
+<a name="arriba"></a>
+<style>
+p.a {
+  font: 15px arial, sans-serif;
+}
+
+p.b {
+  font: italic bold 20px/30px Georgia, serif;
+}
+<style type="text/css">
+*{
+      margin:0px;
+      padding:0px;
+}
+#general{
+      margin:auto;
+      width:960px;
+      height:750px;
+      background-color:#DB7093;
+      margin-top:10px;
+}
+#head{
+      width:960px;
+      height:220px;
+      background-image:url(imagenes/w72.png);
+      margin-top:0px;
+}
+#menu{
+      margin:auto:
+      width:960px;
+      height:30px;
+      background-color:#FFFFFF;
+      font-family:Verdana, Genova, sans-serif;
+}
+ul,ol{
+      list-style:none;
+}
+.nav li a{
+      background-color:#FFFFFF;
+      color:#DB7093;
+      text-decoration:none;
+      padding:5.5px 60px;
+      display:block;
+}
+.nav li a:hover{
+      background-color:#FFF0F5;
+      color:#000000;
+}
+.nav>li{
+      float:left;
+}
+.nav li ul{
+      display:none;
+      position:absolute;
+      min-width:140px;
+}
+.nav li:hover>ul{
+      display:block;
+}
+.nav li ul li{
+      position:relative;
+}
+.nav li ul li ul{
+      right:-130px,
+      top:0px;
+}
+</style>
+</head>
+<div id="general">
+      <div id="head">
+      </div>
+      <div id="menu">
+           <ul class="nav">
+                 <li><a href="MANTENIMIENTO DE EQUIPO DE COMPUTO34.html">Inicio</a>
+                 <li><a href="">Corte 1</a>
+                   <ul>
+                     <li><a href="ejemplo43.html">Historia De la Generaciones de las Computadoras</a></li>
+                     <li><a href="91.html">Linea del Tiempo de Dispositivos de Entrada y Salida</a></li>
+                     <li><a href="soft74.html">Software y Hadware de una Computadora</a></li>
+                     <li><a href="">Estructura de la Computadora</a>
+                       <ul>
+                          <li><a href="Ent36.html">Dispositivos de Entrada</a></li>
+                          <li><a href="sali40.html">Dispositivos de Salida de Datos</a></li> 
+                          <li><a href="pros39.html">Dispositivos de Procesamiento de Datos</a></li>
+                          <li><a href="alm38.html">Dispositivos de Almacenamiento de Datos</a></li>
+                          <li><a href="dispositivos21.html">Dispositivos de Mixtos</a></li>
+
+                     </ul>
+                    </li>
+                   </ul>
+                  </li>
+                  <li><a href="">Corte 2</a>
+                   <ul>
+
+                          <li><a href="tips12.html">Tipos de Sistemas</a></li>
+                          <li><a href="sis31.html">Sistema Operativo</a></li> 
+                          <li><a href="set21.html">Setup</a></li>
+                          <li><a href="di24.html">Disco Duro</a></li>
+                          <li><a href="anti43.html">Antivirus</a></li>
+                        </ul>
+
+                       </li>
+                       <li><a href="">Corte 3</a>
+                        <ul>
+                          <li><a href="tar15.html">Rutina Post</a></li>
+                          <li><a href="tarjeta post19.html">Tarjeta Post</a></li> 
+                          
+                          <li><a href="diag12.html">Software de Diagnostico</a>
+                           <ul>
+                 <li><a href="cc7.html">Ccleaner</a></li>
+                 <li><a href="tun10.html">Tune Up</a></li>
+                
+                 <li><a href="ar3.html">Argente Utilities</a></li>
+                      </ul>
+                 </li>
+             </ul>
+         </li>
+         <li><a href="practicas1.html">Practicas</a></li>
+        </ul>
+
+      </div>
+    <div id="cuerpo">
+      <div id="efecto">
+      </div>
+      <div id="public">
+      </div>
+      <div id="logo">
+      </div>
+</div>
+</style>
+</head>
+<body bgcolor="	#DB7093">
+<font face="Copperplate Gothic Bold" color="white" size="5"><a href="#abajo">Ir a la parte de abajo</a>
+<br><p class="b">Al conjunto de programas informáticos que permite la administración eficaz de los recursos de una computadora es conocido como sistema operativo o software de sistema. Estos programas comienzan a trabajar apenas se enciende el equipo, ya que gestionan el hardware desde los niveles más básicos y permiten además la interacción con el usuario.</br><br>Cabe destacar que los sistemas operativos no funcionan sólo en las computadoras. Por el contrario, este tipo de sistemas se encuentran en la mayoría de los dispositivos electrónicos que utilizan microprocesadores: el software de sistema posibilita que el aparato cumpla con sus funciones (por ejemplo, un teléfono móvil o un reproductor de DVD).</br><br>Por último, podemos mencionar que el servicio de soporte se encarga de actualizar las versiones, mejorar la seguridad del sistema, agregar nuevas utilidades, controlar los nuevos periféricos que se agregan a la computadora y corregir los errores del software.</p>
+
+
+<div align="center"><img src="imagenes\sist.png" alt "paisaje 2" width="400" height="350"></div>
+
+<div align="center"><font face="Copperplate Gothic Bold" size="30" color="white">Tipos de Sistemas Operativos:</font></div>
+<br></br>
+<font face="Copperplate Gothic Bold" size="30" color="white">Sistema Operativo "Windows"</font>
+<p class="b"><br>Windows es el sistema operativo más utilizado en el mundo y se consiguió imponer por su novedosa interfaz en ventanas que facilitó la interacción de los datos con el usuario de modo gráfico.</br><br>Windows es el sistema operativo que es desarrollado por Microsoft Corporation, el cual destaca por ser un sistema que dispone de una interfaz gráfica de usuario, el cual cuenta con un protocolo de ventanas, en donde una ventana es una representación de una tarea que se ha ejecutado o que está en ejecución, en la que cada ventana puede tener un menú propio al igual que otros controles, y que finalmente el usuario puede ampliar o reducir a través del mouse.</br><br>En la actualidad Windows es el sistema operativo más propagado en el mundo entero y es usado por millones de personas. A su vez, por este predominio la mayor parte de los programas que se desarrollan los hacen pensando en que sean compatib
+les u optimizados para este sistema.</br></p>
+<div align="center"><img src="imagenes\sist1.jpg" alt "paisaje 2" width="350" height="350"></div>
+
+<font face="Copperplate Gothic Bold" size="30" color="white">Ventajas: <p class="b"><br>Facilidad: Es un sistema operativo que es muy sencillo al momento de administrar, implementar o usar. Por tanto, un usuario promedio no tendrá inconvenientes en su configuración o uso</br><br>Infraestructura: En términos generales es segura, pero al ser el más distribuido es al que más se ataca con virus o programas maliciosos. Es por ello que es ideal contar con un ANTIVIRUS INFORMÁTICO</br><br>Reutilización: Por el modo en que se construye la reutilización de códigos después de ejecutar programas es viable, además de un uso que es eficiente de las tareas y total transparencia al ejecutar procesos.</br><br>Compatibilidad : Por ser el más popular y distribuido es un sistema operativo que es muy compatible con la mayoría de los programas o dispositivos que se distribuyen.</br>
+<br></br>
+<font face="Copperplate Gothic Bold" size="30" color="white">Desventajas:</font><p class="b"><br>Costo: Según sea como se lo mire es un sistema operativo costoso, y en buena medida se ha extendido en el mundo por la piratería.</br><br>Recursos:Cada vez que una nueva versión es liberada en el mercado, los equipos tienen que contar con más recursos para garantizar
+ un buen rendimiento.</br><br>Virus o programas maliciosos: Aunque se habla de fallos en su construcción, también hay que pensar que es el sistema operativo que más se utiliza y por esa razón la mayor parte de los virus o programas maliciosos están hechos para Windows.</br><br>Inestabilidad: No significa que sea necesariamente inestable, pero si se lo compara con opciones como Mac o Linux, es el más inestable históricamente.</br><br>
+Código cerrado: Es un sistema operativo que no comparte su código, así que es cerrado y no posibilita que una comunidad se encargue de promover cambios o modificaciones como sí ocurre con Linux, por ejemplo.</br>
+
+<div align="center"><font face="Copperplate Gothic Bold" size="30" color="white">Sistema Operativo "Linux"</font></div>
+<p class="b"><br>Linux es un sistema operativo libre y de código abierto, el cual debe su origen a Unix. Por ser de código abierto cuenta con muchas distribuciones y en cuanto a software libre, es el sistema operativo más popular.</br><br>Linux es un sistema operativo como Windows, Mac OS o DOS. Por lo tanto, Linux es el software que se necesita para que un computador pueda hacer uso de programas como juegos, editores de texto, navegadores web y similares. Por sus características, Linux puede ser usado a través de una interfaz gráfica como Windows o Mac OS, aunque también a través de la línea de comandos como DOS.</br><br>El dato por el que se suele resaltar a Linux como sistema operativo, es que es libre y de código abierto, así que cualquier persona lo puede adquirir, instalar e incluso modificar, a diferencia de lo que sucede con los sistemas operativos comerciales.</br>
+<div align="center">  <img src="imagenes\sist2.png" alt "paisaje 2" width="300" height="300"></div>
+<font face="Copperplate Gothic Bold" size="30" color="white">Ventajas:</font>
+ <p class="b"><br>Robusto, estable y rápido: Por esta combinación de características, es el sistema operativo ideal para los servidores y las aplicaciones distribuidas. A su vez, puede funcionar sin problemas en máquinas humildes o de bajos recursos.</br><br>
+Es libre:Por lo tanto, cumple con la gratuidad del software.</br><br>
+Modificable: Es de código abierto, así que se desarrollan muchas aplicaciones en Internet e incluso los usuarios pueden modificar directamente sistema operativo.</br>
+<br>Para todas las personas: No se encuentra restringido únicamente las personas con conocimientos avanzados de informática, gracias a su interfaz gráfica, todos lo pueden usar sin problemas.</br>
+<br>Facilidad de uso:En distribuciones como Ubuntu se han automatizado todas las tareas, así que es un sistema operativo bastante amigable con el usuario.</br><br>
+Seguridad:Para hacerlo a través de una comparación, el sistema operativo más usado es Windows, así que la creación de virus se concentra más que nada en este sistema operativo. Igualmente, para la creación de virus en Linux es mucho más complejo y es poco probable que haga daño, ya que siempre se solicita permiso para todo. Es raro que entregó un virus, pero no imposible, aunque sí muy complicado.</br>
+<br><font face="Copperplate Gothic Bold" size="30" color="white">Desventajas:</font></br><p class="b"><br>No hay empresa que lo respalde: No existe como tal o soporte para su sistema operativo, pero esto se compensa con su gran comunidad, la cual es muy activa.</br><br>
+Configuración: Existen distribuciones en las que la configuración es inexistente del mismo modo que con Windows, pero si no se opta por una distribución de este tipo, puede ser muy difícil para las personas novatas en informática.</br><br>
+Compatibilidad de programas de Windows: Hay versiones alternativas para los programas más populares de Windows, pero no existe compatibilidad con ellos.</br><br>
+Periféricos: No se cuenta con todos los controladores disponibles para los periféricos.
+Curva de aprendizaje – Si las personas vienen desde otro sistema operativo, puede ser bastante larga.</br>
+
+
+<div align="center"><font face="Copperplate Gothic Bold" size="30" color="white">Sistema Operativo "Mac"</font></div>
+
+<p class="b"><br>El sistema operativo Mac OS (Del ingles Macintosh Operating System, en español Sistema Operativo de Macintosh), es el nombre del sistema operativo creado por Apple para su línea de computadoras Macintosh, también aplicado retroactivamente a las versiones anteriores a System 7.6; y que apareció por primera vez en System 7.5.1. Es conocido por haber sido uno de los primeros sistemas dirigidos al gran público en contar con una interfaz gráfica compuesta por la interacción del mouse con ventanas, iconos y menús.</br><br>
+
+Deliberada a la existencia del sistema operativo en los primeros años de su línea Macintosh en favor de que la máquina resultara más agradable al usuario, diferenciándolo de otros sistemas contemporáneos; como MS-DOS, que eran un desafío técnico. El equipo de desarrollo del Mac OS original incluía a Bill Atkinson; Jef Raskin y Andy Hertzfeld.</br></p>
+<div align="center"> <img src="imagenes\sist3.jpg" alt "paisaje 2" width="400" height="350"></div><br></br>
+
+ 
+<font face="Copperplate Gothic Bold" size="30" color="white">Ventajas:</font>
+ <p class="b"><br>Compatibilidad:
+Permite tener compatibilidad al conectar un dispositivo electrónico (como Impresora, cámara digital, etc), el SO lo detecta automáticamente y puede usarse sin ningún problema; dando un soporte completo sobre los dispositivos, sin necesidad de instalar los drivers desde un CD.</br><br>
+
+ Interfaz Intuitiva:
+Da la facilidad que se puede hacer todo con muy pocos clicks en el mouse de una manera que facilita el manejo y uso de la Interfaz gráfica. También mantiene los archivos organizados en la carpeta “Home”, esto ayuda hacer mucho mas sencilla la organización y localizarlos.</br><br>Instalación y Des-instalación de programas es simple y sencilla: 
+Simplemente se abre el archivo con extensión “dmg” copias el app a la carpeta dónde quieras, preferentemente aplicaciones y listo; para des-instalar solo borras el archivo app y listo.</br><br>
+
+ Es menos vulnerable a virus y malware:
+Si el dispositivo conectado (como usb, memory sd, etc) posee virus, simplemente el SO no permite que se abra y explore, bloqueando su uso en el computador.</br><br>
+
+ Un hardware de ultima generación y driver proporcionados por Apple:
+Un Haedware hecho a la medida y capaz de hacer que funcione al máximo rendimiento hardware/software. Ademas, el hecho de que Apple proporcione todos los drivers; garantiza que no habrá ningún problema de compatibilidad entre SO y hardware.</br></td>
+<br></br> <font face="Copperplate Gothic Bold" size="30" color="white">Desventajas:</font><p class="b"><br>No Existe una gran cantidad software para Mac: comparando con la cantidad que existe para otros, aunque eso está cambiando poco a poco.</br><br>
+No está hecho para correr los últimos juegos: ya que fueron creados para que puedan correr en otro SO mas comercial (como Windows).
+<br>Es difícil encontrar quién pueda dar soporte.</br>
+<br>Solo puede configurar el hardware a la hora de comprar el equipo.</br>
+<br>Hardware Caro.</br>
+<br>El reemplazo de las piezas es caro y no puede hacerlo cualquiera.</br></P>
+<div align="center">
+<table border="6">
+<tr>
+  <td><font face="Copperplate Gothic Bold" color="white" size="5"><a href="#arriba">Ir a la parte de arriba</a></font>
+<a name="abajo"></a></br></td><td><a href="MANTENIMIENTO DE EQUIPO DE COMPUTO34.html"><font face="Copperplate Gothic Bold" color="black" size="5">Regresar a pagina principal </font></a></td>
+</tr></div>
+</table>
+</body>
+
+</html>
